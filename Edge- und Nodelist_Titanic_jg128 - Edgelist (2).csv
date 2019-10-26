@@ -1,0 +1,10 @@
+from,to ,weight
+Ro,Mo,2
+Ro,Ja,3
+Ro,Ca,1
+Ro,Ru,1
+Ru,Ca,2
+Sp,Ca,3
+Sp,Ja,1
+Ja,Ru,1
+Ja,Mo,2
